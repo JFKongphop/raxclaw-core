@@ -1,0 +1,10 @@
+*.md
+!README.md
+!SKILL.md
+.env
+.env.local
+target
+node_modules
+data
+*.txt
+.DS_Store
